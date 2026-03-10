@@ -1,3 +1,5 @@
+# Snake Game
+
 This repository contains a small version of the classic Snake game written in C.
 
 The source code is recorded in the file "src/Snake_Game.c". You can modify the length, map size, background, icon, music, etc. through the source code. 
