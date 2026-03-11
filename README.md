@@ -1,15 +1,47 @@
 # Snake Game
+This is a small Snake game project written in C.  
 
-This repository contains a small version of the classic Snake game written in C.
+📁**Project Structure**
+src/Snake_Game.c - Game source code file  
+demo/Snake_Game.exe - Directly runnable game program  
+demo/Picture_x - Gameplay preview images  
 
-The source code is recorded in the file "src/Snake_Game.c". You can modify the length, map size, background, icon, music, etc. through the source code. 
+🎮**Game Features**
+Classic Snake gameplay.  
+Runs in the Windows console.  
+Simple code, easy to understand and modify.  
 
-You can try it out through the "demo/Snake_Game.exe" file. The game is operated through the Windows console. To facilitate startup and reduce the project size, the total length of the snake is set to 10. No additional icons or music have been added. Also, there are some pictures for a preview.
+⚙️**Current Version Notes**
+To facilitate quick startup and control project size, the current version (demo executable) has been streamlined:  
+The total length of the snake is fixed at 10.  
+No custom icons or music have been added.  
 
-此Repository为C语言编写的小型贪吃蛇。
+🚀**How to Run**
+Run demo/Snake_Game.exe directly to start the game.  
+Alternatively, compile the source code in src/Snake_Game.c to create a customized version.  
 
-源代码记录在src/Snake_Game.c中，可以通过源代码更改长度、地图大小、背景、图标、音乐等。
+# 贪吃蛇
 
-可通过demo/Snake_Game.exe进行试玩，通过windows控制台进行操作，为便于启动、压缩项目大小，蛇总体长度设置为10，未加入额外的图标以及音乐等。文件夹里还有一些预览图片。
+这是一个用C语言编写的小型贪吃蛇游戏项目。  
+
+📁**项目结构**
+src/Snake_Game.c - 游戏源代码文件  
+demo/Snake_Game.exe - 可直接运行的游戏程序  
+demo/Picture_x - 游戏运行效果预览图  
+
+🎮**游戏特点**
+经典贪吃蛇玩法。  
+基于Windows控制台运行。  
+代码简洁，易于理解和修改。  
+
+⚙️**当前版本说明**
+为便于快速启动和控制项目体积，当前版本（demo可执行文件）已做精简：  
+蛇的总长度固定为10。  
+未添加自定义图标和音乐。  
+
+🚀**如何运行**
+直接运行 demo/Snake_Game.exe 即可开始游戏。  
+或通过编译 src/Snake_Game.c 源码生成自定义版本。  
+
 
 
