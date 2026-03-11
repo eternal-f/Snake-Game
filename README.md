@@ -10,6 +10,8 @@ demo/Snake_Game_x - Gameplay preview images
 Classic Snake gameplay.  
 Runs in the Windows console.  
 Simple code, easy to understand and modify.  
+<img width="1734" height="927" alt="Snake_Game_1" src="https://github.com/user-attachments/assets/66768543-1975-43e4-9b36-f4e4db3bec53" />
+
 
 ⚙️**Current Version Notes**  
 To facilitate quick startup and control project size, the current version (demo executable) has been streamlined:  
@@ -33,6 +35,8 @@ demo/Snake_Game_x - 游戏运行效果预览图
 经典贪吃蛇玩法。  
 基于Windows控制台运行。  
 代码简洁，易于理解和修改。  
+<img width="1734" height="927" alt="Snake_Game_1" src="https://github.com/user-attachments/assets/18b460e6-d632-4cb8-ae40-41060662f08b" />
+
 
 ⚙️**当前版本说明**  
 为便于快速启动和控制项目体积，当前版本（demo可执行文件）已做精简：  
