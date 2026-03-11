@@ -4,7 +4,7 @@ This is a small Snake game project written in C.
 📁**Project Structure**  
 src/Snake_Game.c - Game source code file  
 demo/Snake_Game.exe - Directly runnable game program  
-demo/Picture_x - Gameplay preview images  
+demo/Snake_Game_x - Gameplay preview images  
 
 🎮**Game Features**  
 Classic Snake gameplay.  
@@ -27,7 +27,7 @@ Alternatively, compile the source code in src/Snake_Game.c to create a customize
 📁**项目结构**  
 src/Snake_Game.c - 游戏源代码文件  
 demo/Snake_Game.exe - 可直接运行的游戏程序  
-demo/Picture_x - 游戏运行效果预览图  
+demo/Snake_Game_x - 游戏运行效果预览图  
 
 🎮**游戏特点**  
 经典贪吃蛇玩法。  
